@@ -1,2 +1,5 @@
 "Status","Start Time","Stop Time","Duration in ms","Parent Suite","Suite","Sub Suite","Test Class","Test Method","Name","Description"
-"passed","Fri Mar 08 21:11:42 CST 2024","Fri Mar 08 21:11:42 CST 2024","225","testcase","test_open_baidu","","","","test_open_baidu",""
+"passed","Sun Mar 10 17:03:05 CST 2024","Sun Mar 10 17:03:05 CST 2024","0","testcase","test_open_baidu","","","","test_open_baidu01",""
+"passed","Sun Mar 10 17:03:04 CST 2024","Sun Mar 10 17:03:05 CST 2024","671","testcase","test_open_baidu","","","","test_open_baidu",""
+"passed","Sun Mar 10 17:03:05 CST 2024","Sun Mar 10 17:03:05 CST 2024","0","testcase","test_open_baidu","","","","test_open_baidu03",""
+"passed","Sun Mar 10 17:03:05 CST 2024","Sun Mar 10 17:03:05 CST 2024","0","testcase","test_open_baidu","","","","test_open_baidu02",""
